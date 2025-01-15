@@ -1,7 +1,7 @@
-# Olympics Data Analysis (1900-2016)
+# 120 Years of Olympics Data Analysis (1896-2016)
 
 ## Introduction
-This project analyzes data from the Olympics Games spanning from 1900 to 2016. The datasets used were sourced from Kaggle and include `athlete_events.csv` and `noc_regions.csv`. This analysis aims to uncover trends, patterns, and insights about athletes, countries, and events in the Olympics.
+This project analyzes data from the Olympics Games spanning from Athens 1896 to Rio 2016. The datasets used were sourced from Kaggle and include `athlete_events.csv` and `noc_regions.csv`. This analysis aims to uncover trends, patterns, and insights about athletes, countries, and events in the Olympics.
 
 ## Libraries Used
 - **Pandas**: For data manipulation and analysis
