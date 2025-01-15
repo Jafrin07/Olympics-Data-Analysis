@@ -55,7 +55,7 @@ The project provides various insights into the history of the Olympics, includin
 - Gender-wise participation and performance trends
 
 ## Conclusion
-This project offers a comprehensive analysis of the Olympics from 1900 to 2016. By exploring the data, we can gain a deeper understanding of the evolution of the Games, the performance of athletes, and the participation of countries.
+This project offers a comprehensive analysis of the Olympics from 1896 to 2016. By exploring the data, we can gain a deeper understanding of the evolution of the Games, the performance of athletes, and the participation of countries.
 
 ## Acknowledgments
 - The dataset was sourced from Kaggle.
